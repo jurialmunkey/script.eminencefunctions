@@ -1,1 +1,1 @@
-USED BY EMINENCE SKIN FOR HOME SCREEN CUSTOMISATION
+Used by the Eminence skin for various home screen customisation functions
